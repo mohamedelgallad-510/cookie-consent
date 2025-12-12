@@ -83,8 +83,12 @@ Challenge:
     background-color: #212529;
     color: whitesmoke;
     position: fixed;
-    top: 25%;
-    left: 25%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    display: none;
 }
 
 .modal-inner{
