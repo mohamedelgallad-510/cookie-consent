@@ -32,5 +32,5 @@ consentForm.addEventListener('submit', function(e){
             <img src="images/pirate.gif">
         </div>
     ` 
-    }, 3000)
+    }, 4000)
 })
