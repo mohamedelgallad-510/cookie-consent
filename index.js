@@ -32,5 +32,6 @@ consentForm.addEventListener('submit', function(e){
             <img src="images/pirate.gif">
         </div>
     ` 
+        document.getElementById('modal-close-btn').disabled = false
     }, 3000)
 })
